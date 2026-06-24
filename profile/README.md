@@ -29,7 +29,7 @@ Developer tools, examples, and resources for reliable CAN, LIN, and Automotive E
 >   </picture>
 > </p>
 >
-> ### [Kvaser/edge-logger](https://github.com/Kvaser/edge-logger)
+> ### [Kvaser/can-logger-edge](https://github.com/Kvaser/can-logger-edge)
 >
 > **Python example application for Kvaser Edge.**
 >
