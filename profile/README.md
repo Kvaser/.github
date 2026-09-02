@@ -29,15 +29,15 @@ Developer tools, examples, and resources for reliable CAN, LIN, and Automotive E
 >   </picture>
 > </p>
 >
-> ### [Kvaser/can-logger-edge](https://github.com/Kvaser/can-logger-edge)
+> ### [Kvaser/edge-log-relay](https://github.com/Kvaser/edge-log-relay)
 >
 > **Python example application for Kvaser Edge.**
 >
 > Use this project as a practical starting point for building edge logging workflows around Kvaser hardware and communication data.
 >
-> [![Repository](https://img.shields.io/badge/repository-Kvaser%2Fedge--logger-24292f?logo=github)](https://github.com/Kvaser/edge-logger)
-> [![Language](https://img.shields.io/github/languages/top/Kvaser/edge-logger)](https://github.com/Kvaser/edge-logger)
-> [![Last commit](https://img.shields.io/github/last-commit/Kvaser/edge-logger)](https://github.com/Kvaser/edge-logger/commits)
+> [![Repository](https://img.shields.io/badge/repository-Kvaser%2Fedge--log--relay-24292f?logo=github)](https://github.com/Kvaser/edge-log-relay)
+> [![Language](https://img.shields.io/github/languages/top/Kvaser/edge-log-relay)](https://github.com/Kvaser/edge-log-relay)
+> [![Last commit](https://img.shields.io/github/last-commit/Kvaser/edge-log-relay)](https://github.com/Kvaser/edge-log-relay/commits)
 >
 > **Use it to:**
 >
@@ -45,7 +45,7 @@ Developer tools, examples, and resources for reliable CAN, LIN, and Automotive E
 > - Prototype data logging at the edge.
 > - Adapt the example for your own workflow.
 >
-> **[Explore edge-logger](https://github.com/Kvaser/edge-logger)** | [Learn more about Kvaser](https://kvaser.com/)
+> **[Explore edge-log-relay](https://github.com/Kvaser/edge-log-relay)** | [Learn more about Kvaser](https://kvaser.com/)
 
 ## More from Kvaser on GitHub
 
@@ -53,7 +53,7 @@ Kvaser open source projects help developers connect software to CAN systems, aut
 
 | Repository | Focus |
 | --- | --- |
-| [edge-logger](https://github.com/Kvaser/edge-logger) | Example application for Kvaser Edge |
+| [edge-log-relay](https://github.com/Kvaser/edge-log-relay) | Example application for Kvaser Edge |
 | [pycanlib](https://github.com/Kvaser/pycanlib) | Python wrapper for the Kvaser CANlib SDK |
 
 ## Build with Kvaser
