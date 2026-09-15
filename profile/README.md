@@ -55,6 +55,7 @@ Kvaser open source projects help developers connect software to CAN systems, aut
 | --- | --- |
 | [edge-log-relay](https://github.com/Kvaser/edge-log-relay) | Example application for Kvaser Edge |
 | [pycanlib](https://github.com/Kvaser/pycanlib) | Python wrapper for the Kvaser CANlib SDK |
+| [CanKing Agent Skills](https://github.com/Kvaser/canking-agent-skills) | Agent coding skills for working with Kvaser CanKing extensions |
 
 ## Build with Kvaser
 
